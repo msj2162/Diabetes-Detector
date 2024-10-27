@@ -1,0 +1,12 @@
+1. To run the Web application, run python app.py and then run http://127.0.0.1:5000 on your browser.
+2. To check the information about the diabetes detector run diabetes_detector which will show your all the steps performed in the following steps: 
+
+Step-by-Step Project Plan:
+1. Understand the Problem
+2. Gather and Load Data
+3. Data Preprocessing
+4. Exploratory Data Analysis (EDA)
+5. Train-Test Split
+6. Model Selection
+7. Train the Model
+8. Evaluate the Model
